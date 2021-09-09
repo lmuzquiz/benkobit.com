@@ -1,6 +1,5 @@
 import { PopupButton, Widget } from "@typeform/embed-react";
-import Image from 'next/image'
-import imagen from '../public/vacante.png'
+
 
 
 
